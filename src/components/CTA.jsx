@@ -26,7 +26,7 @@ const CTA = () => {
       />
       <div className="w-[86%] bg-black rounded text-white flex justify-end items-center py-3 relative z-[10]">
         <img src={line1} alt="" className="w-[40%] absolute  bottom-0 left-0" />
-        <img src={line2} alt="" className="w-[40%] absolute top-0 right-0" />
+        <img src={line2} alt="" className="w-[40%] absolute top-0 right-0 z-[-1]" />
         <img
           src={star3}
           alt=""
